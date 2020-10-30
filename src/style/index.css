@@ -29,9 +29,9 @@ ul {
 
 .nav-link {
   color: white;
-  width: 10%;
   text-align: center;
   text-decoration: none;
+  flex: 1;
 }
 
 .left-aside {
