@@ -18,3 +18,18 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+.header-nav {
+  height: 60px;
+  background-color: #262626;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-link {
+  color: white;
+  width: 10%;
+  text-align: center;
+  text-decoration: none;
+}
