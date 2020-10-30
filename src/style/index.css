@@ -51,3 +51,43 @@ ul {
 .archive-link {
   display: block;
 }
+
+.main {
+  display: flex;
+}
+
+.articles {
+  flex: 1;
+  margin-top: 30px;
+}
+
+.article {
+  border: 1px solid #f0f0f0;
+  border-radius: 2px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.article figure {
+  margin: 15px;
+}
+
+.article-img {
+  width: calc(100% + 30px);
+  height: 120px;
+  margin: -15px -15px 0;
+}
+
+.article-title {
+  margin-block-start: 10px;
+  margin-block-end: 10px;
+}
+
+.article-description {
+  margin-block-start: 0;
+}
+
+.article-link {
+  text-decoration: none;
+  color: #317cf6;
+}
