@@ -43,6 +43,12 @@ ul {
   padding: 20px;
 }
 
+.title {
+  font-size: 1.5em;
+  margin-block-start: 1em;
+  margin-block-end: 0.8em;
+}
+
 .about {
   background-color: #f8f9fa;
 }
@@ -86,6 +92,7 @@ ul {
 }
 
 .article-title {
+  font-size: 1.5em;
   margin-block-start: 10px;
   margin-block-end: 10px;
 }
