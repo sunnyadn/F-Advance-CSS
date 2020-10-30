@@ -149,3 +149,15 @@ ul {
   margin-top: 15px;
   font-size: large;
 }
+
+.footer {
+  text-align: center;
+  background-color: #f9f9f9;
+  font-size: 14px;
+  color: gray;
+  padding: 25px;
+}
+
+.footer-text {
+  margin: 0;
+}
