@@ -33,3 +33,21 @@ ul {
   text-align: center;
   text-decoration: none;
 }
+
+.left-aside {
+  width: 200px;
+  float: left;
+  margin: 30px 30px 0 50px;
+}
+
+.left-aside-section {
+  padding: 20px;
+}
+
+.about {
+  background-color: #f8f9fa;
+}
+
+.archive-link {
+  display: block;
+}
